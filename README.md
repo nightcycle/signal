@@ -1,2 +1,2 @@
-# package
-A basic template for whenever I make a wally package
+# signal
+A typechecked branch of Quenty's signal class
