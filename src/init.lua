@@ -1,3 +1,4 @@
+--!strict
 export type Signal = {
 	new: () -> Signal,
 	Wrap: (RBXScriptSignal) -> Signal,
